@@ -20,9 +20,8 @@
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
             android:drawableTop="@drawable/icon"
-            android:textColor="@color/abc_primary_text_material_light"
-            android:fontFamily="@string/abc_font_family_title_material"
-            android:text="  LittleWeeb"
+            android:textColor="#000000"
+            android:text=" LittleWeeb"
             android:textSize="24dp" />
     </RelativeLayout>
     <RelativeLayout
