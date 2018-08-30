@@ -195,15 +195,6 @@ namespace LittleWeebAndroid
 			// aapt resource value: 0x7F090002
 			public const int AppTheme = 2131296258;
 			
-			// aapt resource value: 0x7F090004
-			public const int AppTheme_AppBarOverlay = 2131296260;
-			
-			// aapt resource value: 0x7F090003
-			public const int AppTheme_NoActionBar = 2131296259;
-			
-			// aapt resource value: 0x7F090005
-			public const int AppTheme_PopupOverlay = 2131296261;
-			
 			static Style()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
