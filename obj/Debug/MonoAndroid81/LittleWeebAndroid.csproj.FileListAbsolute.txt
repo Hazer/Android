@@ -2,6 +2,7 @@ F:\Github\LittleWeebGH\LittleWeebAndroid\bin\Debug\LittleWeeb.dll
 F:\Github\LittleWeebGH\LittleWeebAndroid\bin\Debug\LittleWeeb.pdb
 F:\Github\LittleWeebGH\LittleWeebAndroid\bin\Debug\LittleWeeb.LittleWeeb.apk
 F:\Github\LittleWeebGH\LittleWeebAndroid\bin\Debug\LittleWeeb.LittleWeeb-Signed.apk
+F:\Github\LittleWeebGH\LittleWeebAndroid\obj\Debug\MonoAndroid81\LittleWeebAndroid.csprojAssemblyReference.cache
 F:\Github\LittleWeebGH\LittleWeebAndroid\obj\Debug\MonoAndroid81\res.flag
 F:\Github\LittleWeebGH\LittleWeebAndroid\obj\Debug\MonoAndroid81\LittleWeebAndroid.csproj.CoreCompileInputs.cache
 F:\Github\LittleWeebGH\LittleWeebAndroid\obj\Debug\MonoAndroid81\LittleWeeb.dll

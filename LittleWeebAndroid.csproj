@@ -98,7 +98,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="LittleWeebLibrary">
-      <Version>0.4.0--Android-20180830-1251</Version>
+      <Version>0.4.0--Desktop-20180904-2122</Version>
     </PackageReference>
     <PackageReference Include="SimpleIRCLib">
       <Version>2.2.0</Version>
