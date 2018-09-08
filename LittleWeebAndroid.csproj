@@ -64,9 +64,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidAsset Include="Assets\version.json" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
-    <None Include="Assets\AboutAssets.txt" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\activity_main.axml">
@@ -98,7 +98,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="LittleWeebLibrary">
-      <Version>0.4.0--Desktop-20180904-2122</Version>
+      <Version>0.4.0--Android-20180908-2134</Version>
     </PackageReference>
     <PackageReference Include="SimpleIRCLib">
       <Version>2.2.0</Version>
@@ -115,18 +115,6 @@
     <AndroidResource Include="Resources\drawable\icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\inline.85dc53881833390190bd.bundle.js" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\main.56934aa1847aa23ee486.bundle.js" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\polyfills.7bd917fb14f237541df2.bundle.js" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\styles.7b586ff0175dc27026ff.bundle.css" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidAsset Include="Assets\assets\toaster.css" />
   </ItemGroup>
   <ItemGroup>
@@ -137,6 +125,18 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\index.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\inline.7d1e05caa0d650558592.bundle.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\main.db7c49a401f7e420e2b0.bundle.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\polyfills.7bd917fb14f237541df2.bundle.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\styles.701ee92925e3c42eb3e8.bundle.css" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
