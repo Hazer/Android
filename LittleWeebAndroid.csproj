@@ -98,7 +98,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="LittleWeebLibrary">
-      <Version>0.4.0--Android-20180908-2134</Version>
+      <Version>0.4.0--Desktop-20180909-1647</Version>
     </PackageReference>
     <PackageReference Include="SimpleIRCLib">
       <Version>2.2.0</Version>
@@ -115,28 +115,28 @@
     <AndroidResource Include="Resources\drawable\icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\assets\toaster.css" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\3rdpartylicenses.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidAsset Include="Assets\favicon.ico" />
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\index.html" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\inline.7d1e05caa0d650558592.bundle.js" />
+    <AndroidAsset Include="Assets\inline.ed5f019fa038de621156.bundle.js" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\main.db7c49a401f7e420e2b0.bundle.js" />
+    <AndroidAsset Include="Assets\main.ba16038512863b9bd01f.bundle.js" />
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\polyfills.7bd917fb14f237541df2.bundle.js" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\styles.701ee92925e3c42eb3e8.bundle.css" />
+    <AndroidAsset Include="Assets\styles.6accb5349021523f0ba6.bundle.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\assets\toaster.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\3rdpartylicenses.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

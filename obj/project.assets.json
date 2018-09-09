@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v8.1": {
-      "LittleWeebLibrary/0.4.0--Android-20180908-2134": {
+      "LittleWeebLibrary/0.4.0--Desktop-20180909-1647": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
@@ -291,13 +291,13 @@
     }
   },
   "libraries": {
-    "LittleWeebLibrary/0.4.0--Android-20180908-2134": {
-      "sha512": "kTWbEIu141LJrqJAoaMLSIvnLtzrn6L0BPrCQ/nUq1oieeiU30vb6l546YTEN7IDSkdL8nvBv2wYo2IYD370jw==",
+    "LittleWeebLibrary/0.4.0--Desktop-20180909-1647": {
+      "sha512": "3x18/772TlmWnIF0JGvnJblgQEsJslyn5i5ql100xpaV27/6UIlXuY3mvCg63VY5cdwOuJQESC09h73JHnOkUA==",
       "type": "package",
-      "path": "littleweeblibrary/0.4.0--android-20180908-2134",
+      "path": "littleweeblibrary/0.4.0--desktop-20180909-1647",
       "files": [
         "lib/netstandard2.0/LittleWeebLibrary.dll",
-        "littleweeblibrary.0.4.0--android-20180908-2134.nupkg.sha512",
+        "littleweeblibrary.0.4.0--desktop-20180909-1647.nupkg.sha512",
         "littleweeblibrary.nuspec"
       ]
     },
@@ -557,7 +557,7 @@
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v8.1": [
-      "LittleWeebLibrary >= 0.4.0--Android-20180908-2134",
+      "LittleWeebLibrary >= 0.4.0--Desktop-20180909-1647",
       "SimpleIRCLib >= 2.2.0",
       "SimpleWebsocketServer >= 1.1.0",
       "Xamarin.Android.Support.Design >= 27.0.2.1",
@@ -600,7 +600,7 @@
         "dependencies": {
           "LittleWeebLibrary": {
             "target": "Package",
-            "version": "[0.4.0--Android-20180908-2134, )"
+            "version": "[0.4.0--Desktop-20180909-1647, )"
           },
           "SimpleIRCLib": {
             "target": "Package",
